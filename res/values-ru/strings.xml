@@ -36,7 +36,7 @@
     <string name="weather_11">Ливень</string>
     <string name="weather_12">Ливень</string>
     <string name="weather_13">Снег с дождём</string>
-    <string name="weather_14">Небольшой дождь со снегом</string>
+    <string name="weather_14">Небольшой снег</string>
     <string name="weather_15">Позёмка</string>
     <string name="weather_16">Снег</string>
     <string name="weather_17">Град</string>
@@ -86,7 +86,7 @@
     <!-- Weather - error messages -->
     <string name="weather_no_data">Нет данных</string>
     <string name="weather_tap_to_refresh">Нажмите для обновления</string>
-    <string name="weather_refreshing">Обновление...</string>
+    <string name="weather_refreshing">Обновление\u2026</string>
     <string name="weather_last_sync_just_now">Только что</string>
 
     <!-- Weather - Update frequency -->
@@ -118,7 +118,7 @@
     <!-- Preferences - Weather -->
     <string name="weather_enabled">Включено</string>
     <string name="weather_enable">Погода отображается</string>
-    <string name="weather_source">Yahoo! Weather</string>
+    <string name="weather_source">Yahoo! Погода</string>
     <string name="weather_use_custom_location">Не определять автоматически</string>
     <string name="weather_geolocated">Местоположение по сети</string>
     <string name="weather_custom_location_dialog_title">Введите местоположение</string>
